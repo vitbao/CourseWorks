@@ -1,0 +1,16 @@
+
+OK, so you can't bring a microscope everywhere with you.
+But you can certainly take this 3D-printed version, designed to clip onto your smartphone and work with its camera.
+SEE ALSO: Put your vital signs on show with this ultrathin, stick-on skin display
+The device was developed by researchers at the ARC Centre of Excellence for Nanoscale BioPhotonics (CNBP) at Australia's RMIT University, and is the subject of a paper in Scientific Reports.
+Requiring no external power or lighting source, the smartphone microscope is slated to be a handy tool for conducting fieldwork in remote areas, especially when bringing a larger microscope is impractical or unavailable.
+Researchers say unlike other smartphone microscopes, CNBP's version takes advantage of the flash that's built into most phones. Internal illumination tunnels take light from the camera's flash to brighten the samples from behind. 
+
+Image:  cnbp"Almost all other phone-based microscopes use externally powered light sources, while there’s a perfectly good flash on the phone itself," CNBP research fellow Antony Orth explained in a blog post.
+"External LEDs and power sources can make these other systems surprisingly complex, bulky and difficult to assemble. The beauty of our design is that the microscope is useable after one simple assembly step and requires no additional illumination optics, significantly reducing the cost and complexity of assembly."
+What's more, the 3D printer files needed to create the smartphone microscope have been released freely online by the researchers.
+Orth said he and his colleagues have successfully tested the smartphone microscope on samples such as zooplankton and cattle semen. Now other researchers can do the same. 
+
+WATCH: This kitchen robot cooks your meals when you're not home
+
+

@@ -1,0 +1,24 @@
+
+With a new Doctor Who series comes not just a new Doctor but also a new logo.
+BCC revealed the new logo for Doctor Who's upcoming 11th series, which is set to premiere on BBC in the fall. The logo, colored yellow and orange, is a more modern take on the last logo with a little extra flair.
+SEE ALSO: Doctor Who jumped out of her TARDIS to meet some young fans and it sounded awesome
+The extra flair — that line through the middle — is shown in a short animation to be the trail of the TARDIS.
+
+New Doctor, New Series, New Logo #DoctorWho pic.twitter.com/qpXoEcvFHv
+— Doctor Who Official (@bbcdoctorwho) February 20, 2018
+
+The new Doctor Who series stars Jodie Whittaker, the first female actor to play the Doctor. Since the show began in 1963, there have been 13 different Doctors.
+In the still image of the logo, the scene appears to feature Whittaker as the Doctor with the TARDIS in the distance.
+
+A new era of #DoctorWho is dawning… pic.twitter.com/mmSz9DeYCr
+— Doctor Who Official (@bbcdoctorwho) February 20, 2018
+
+
+WATCH: If the Doctor had a bad day on 'Doctor Who'
+
+
+{"player":{"description":"The TARDIS takes a few passengers on an astronomical trip. ","image":"https://i.amz.mshcdn.com/JsMyP8uKI9K6ZaPJ8-ZcbjQ6f0U=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fvideo_uploaders%2Fdistribution_thumb%2Fimage%2F1434%2F63a3872e-7725-450a-b51d-487e006993e2.jpg","mediaid":"M8P0BaLo1q","preload":false,"title":"If the Doctor had a bad day on 'Doctor Who'","sources":[{"file":"https://vdist.aws.mashable.com/jw/2017/5/d0f54e3f-c8fd-559d/hls.m3u8"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/d0f54e3f-c8fd-559d/dash.mpd"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/d0f54e3f-c8fd-559d/mp4/1080.mp4"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/d0f54e3f-c8fd-559d/mp4/720.mp4"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/d0f54e3f-c8fd-559d/mp4/480.mp4"}]},"options":{"disableAds":false,"disableSharing":false,"nextupAction":"autoplay","embedUrl":"https://mashable.com/videos/blueprint:M8P0BaLo1q/embed/?player=offsite","standaloneUrl":null,"post":{"url":"https://mashable.com/2016/08/30/doctor-who-bad-days/","date":"2016-08-30T15:20:25.000Z","bp_id":18883,"wp_id":null}},"advertising":{"params":{"keywords":"entertainment,movies,mashable-video,doctor who,animation,cinefix,bad days","sec0":null,"sec1":"","prc":""}},"analytics":{"labels":"entertainment,movies,mashable-video,doctor who,animation,cinefix,bad days","videoSeriesName":null}}
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");

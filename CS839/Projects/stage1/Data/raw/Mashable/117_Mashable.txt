@@ -1,0 +1,40 @@
+
+We've been watching "Starman" cruise through space in his cosmic Tesla Roadster for a week now.
+But on Valentine's Day, Elon Musk's shrewd payload from SpaceX's Falcon Heavy rocket will disappear into deep space — and you can watch it happen live.
+SEE ALSO: What SpaceX's Falcon Heavy launch means for the future of spaceflight
+Streaming live via the Virtual Telescope Project, an Italy-based project dedicated to streaming real-time telescope footage online, you'll be able to see Musk's Tesla Roadster disappear from view.
+In a live event scheduled for Feb. 14, beginning at 7:15 a.m. ET (4:15 a.m. PT, 12:15 a.m. UTC, 11:15 p.m. AEDT), robotic telescopes will capture the Roadster in its final visible stage.
+
+View from SpaceX Launch Control. Apparently, there is a car in orbit around Earth. pic.twitter.com/QljN2VnL1O
+— Elon Musk (@elonmusk) February 6, 2018
+
+It'll be the last time we see Starman and his cosmic Roadster, carried into orbit by SpaceX's Falcon Heavy rocket, which launched its maiden flight and landed two of its three main boosters back on Earth on Feb. 7 — we were there.
+Where will he end up? SpaceX apparently originally planned for the Roadster to end up orbiting through the solar system, getting pretty close to Mars every so often — and we know Musk has big Mars plans.
+According to Musk, it appears the Roadster will instead overshoot these estimates, and keep driving on until the asteroid belt. But Jonathan McDowell, of the Harvard-Smithsonian Center for Astrophysics, thinks Musk's wrong. By his calculations, it will make it beyond Mars, but not to the asteroid belt. 
+
+Third burn successful. Exceeded Mars orbit and kept going to the Asteroid Belt. pic.twitter.com/bKhRN73WHF
+— Elon Musk (@elonmusk) February 7, 2018
+
+
+Using the JPL ephemeris, the closest predicted approach to Mars between now and 2030 is 7 million km on 2020 Oct 8. This is still well outside Mars' gravitational sphere of influence
+— Jonathan McDowell (@planet4589) February 8, 2018
+
+A few astronomers have been tracking Starman over the last week, including Virtual Telescope Project astronomer Gianluca Masi, who caught the Tesla in space on Feb. 8. 
+
+Musk himself posted a final photo from the Roadster after launch last week, so while we won't be seeing anything of this detail, you'll still get to see the vehicle disappear from the telescope.
+
+
+
+Last pic of Starman in Roadster on its journey to Mars orbit and then the Asteroid Belt
+A post shared by  Elon Musk (@elonmusk) on Feb 7, 2018 at 2:00pm PST
+
+
+
+Prepare to crank up some David Bowie.
+Additional reporting by Miriam Kramer and Mark Kaufman.
+
+WATCH: Here’s how NASA is preparing the largest telescope ever built for space
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");

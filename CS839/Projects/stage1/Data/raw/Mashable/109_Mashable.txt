@@ -1,0 +1,31 @@
+
+SpaceX hopes to launch a global fleet of small internet-beaming satellites in the next few years, and Federal Communications Commission chairman Ajit Pai wants to grant SpaceX that opportunity. 
+In a statement released Wednesday morning, Pai urged the other four FCC commissioners to support an approval of SpaceX's application to put a constellation of thousands of satellites into orbit some 700 miles above Earth. The satellites would be especially useful for expanding internet access to rural areas, Pai said:
+“Following careful review of this application by our International Bureau’s excellent satellite engineering experts, I have asked my colleagues to join me in supporting this application and moving to unleash the power of satellite constellations to provide high-speed Internet to rural Americans," Pai said. 
+SEE ALSO: What SpaceX's Falcon Heavy launch means for the future of spaceflight
+"If adopted, it would be the first approval given to an American-based company to provide broadband services using a new generation of low-Earth orbit satellite technologies,” he continued.
+Pai's support comes just three days before SpaceX plans to launch two of these microsatellites into low Earth orbit, as a test. The spaceflight company is currently preparing to launch a radar satellite into space for the Spanish government on Feb. 17, and the two communications satellites would accompany that payload. 
+
+Static fire test of Falcon 9 complete—targeting February 17 launch of PAZ from Vandenberg Air Force Base in California.
+— SpaceX (@SpaceX) February 11, 2018
+
+In one application, filed in November 2016, SpaceX specifically requested the ability to launch a whopping 4,425 satellites into orbit. To put that into perspective, according to a database maintained by the Union of Concerned Scientists, as of August 2017, there were only 1,738 currently operational satellites orbiting Earth. 
+SpaceX has since asked (in August 2017) the FCC to allow them to fill space with nearly 12,000 more satellites.
+It's unknown how many satellites will be approved.  
+If the other commissioners follow their chief's recommendation, this won't be the first time the FCC decided to approve applications for constellations of broadband satellites. The FCC noted that it previously approved applications for the companies OneWeb, Space Norway, and Telesat to provide fast internet via satellites. 
+
+@Shmizer1 unfettered certainly and at very low cost
+— Elon Musk (@elonmusk) November 11, 2014
+
+SpaceX itself has already launched dozens of communications satellites for companies like Iridium. Iridium's global satellite constellation, however, won't be in competition with the SpaceX broadband endeavor, as Iridium provides service to satellite phones and other receivers, including those used in aircraft — not a global broadband connection. 
+SpaceX CEO Elon Musk first announced the broadband satellite constellation in 2014. He said SpaceX isn't doing this for free, but noted that the internet will be provided "at a very low cost."
+A SpaceX representative declined to comment on exactly how much this satellite-beamed internet service might cost. 
+
+WATCH: Here’s how NASA is preparing the largest telescope ever built for space
+
+
+{"player":{"description":"It's almost ready for liftoff!","image":"https://i.amz.mshcdn.com/HXhDT78OG65ntPtCd0PHClMN81U=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fvideo_uploaders%2Fdistribution_thumb%2Fimage%2F84139%2F3c97e3f5-d856-4d4d-b40b-d872b68c2e62.jpg","mediaid":"jznRp79oxJ","preload":false,"title":"Here’s how NASA is preparing the largest telescope ever built for space","sources":[{"file":"https://vdist.aws.mashable.com/cms/2018/1/91e235cc-122e-0978/hls.m3u8"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/91e235cc-122e-0978/dash.mpd"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/91e235cc-122e-0978/mp4/1080.mp4"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/91e235cc-122e-0978/mp4/720.mp4"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/91e235cc-122e-0978/mp4/480.mp4"}]},"options":{"disableAds":false,"disableSharing":false,"nextupAction":"autoplay","embedUrl":"https://mashable.com/videos/blueprint:jznRp79oxJ/embed/?player=offsite","standaloneUrl":null,"post":{"url":"https://mashable.com/2018/01/16/james-webb-space-telescope-nasa/","date":"2018-01-16T16:43:10.312Z","bp_id":66910,"wp_id":null}},"advertising":{"params":{"keywords":"tech,nasa,mashable-video,aliens,telescopes,space exploration,real-time video,james webb space telescope,alien,telescope,nasa news,nasa spacecraft,james webb telescope,space telescope","sec0":null,"sec1":"","prc":""}},"analytics":{"labels":"tech,nasa,mashable-video,aliens,telescopes,space exploration,real-time video,james webb space telescope,alien,telescope,nasa news,nasa spacecraft,james webb telescope,space telescope","videoSeriesName":null}}
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");

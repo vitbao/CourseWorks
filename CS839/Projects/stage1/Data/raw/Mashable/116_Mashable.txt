@@ -1,0 +1,36 @@
+
+The polar vortex, the notorious swirl of winds around a low pressure area in the upper atmosphere over the Arctic, has split in two. Since the polar vortex tends to be associated with some of the coldest air during the winter, the split — which is more like a temporary separation than a lasting divorce — means that ultra cold air is on the move. 
+A split in the polar vortex may sound like a complicated weather concept, but it has huge consequences for weather patterns from Canada to Eurasia. The latest split is likely to put Western Europe and much of Eurasia into the deep freeze for the rest of February, and will offer glimpses of hope for snow lovers along the U.S. East Coast. 
+SEE ALSO: Frigid February: Polar vortex poised to bring ultra-cold air to Canada, U.S.
+Figuring out where the coldest air will go and how it will affect worldwide weather patterns for the next several weeks is a key task facing weather forecasters now. 
+Helping matters is that most computer models appear to agree on the broad scenario that's likely to play out. Indications are that in the near-term, colder and stormier conditions than average are likely for Western Europe and much of Eurasia during the rest of February into early March. 
+
+Computer model simulation showing a split of the polar vortex into two pieces (blue areas), with an unusually mild area (red) in between.Image:  AER/Judah Cohen.During that same period, the Eastern U.S. will experience something of a spring thaw, with temperatures as much as 20 to 25 degrees Fahrenheit above average for this time of year. 
+Highs in the 70s Fahrenheit are possible during the closing days of February in Washington, D.C. and New York City, areas that saw record cold at the start of the winter. 
+Ski areas in the western part of the country, particularly in the Northern Rockies, could see heavy snowfall and ideal snowmaking conditions during the next two weeks.
+
+Models are indicating very impressive early Spring warmth across the eastern U.S. next week... the West/Rockies will have some cold air to deal with, however. pic.twitter.com/nddbOhrHGd
+— Michael Ventrice (@MJVentrice) February 15, 2018
+
+Back to the polar vortex, though. One piece of the vortex is sliding southwest, out of the Arctic and into western Canada and the Pacific Northwest, where frigid conditions and above average snowfall is favored for the next few weeks. Another is spinning out of the Arctic and over Eurasia. 
+Caught in between is the Arctic Ocean, which should have some of the coldest air of any region in the Northern Hemisphere right now, but instead has seen yet another unusually mild winter. The polar vortex's split means that the ultra-cold air is being siphoned away from the Arctic, leaving unusually mild conditions in its wake. 
+Don't be surprised if Arctic sea ice sets yet another record low for the winter season. 
+This split occurred in the stratosphere
+The main polar vortex exists in the stratosphere, which is the layer of air above where most of our weather occurs. A sudden warming of the stratosphere over the Arctic, appropriately known as a "sudden stratospheric warming event," took place in early-to-mid February, and this has caused the splitting of the stratospheric polar vortex. 
+Sudden stratospheric warming events occur when large atmospheric waves send energy upward, into the stratosphere, setting in motion a complex process that results in the temporary breakdown of the polar vortex. This February's stratospheric warming event was particularly extreme, possibly setting records for how sharply temperatures spiked in the upper atmosphere.
+The polar vortex split isn't the only factor favoring a cold snap in Europe, warmup in the Eastern U.S., and cool down in the West. There's also a cycle of atmospheric pressure over the North Atlantic Ocean, known as the North Atlantic Oscillation (NAO), that can increase the odds of colder and snowier weather in some of these areas. 
+
+GFS predicting textbook example of #warm #Arctic/#cold #Eurasia pattern to end the month.  Can't recall such a strong and extensive #cold forecast for the Eurasian continent! pic.twitter.com/V6F3ccMdML
+— Judah Cohen (@judah47) February 13, 2018
+
+Computer models are projecting the NAO will become strongly negative during the next few weeks in response to the polar vortex split and stratospheric warming event, and this also favors cold and snow in Western Europe. (It also ups the odds of similar weather in the eastern U.S., but that may not happen right away.)
+"A significant PV [polar vortex] disruption is often followed by widespread cold temperatures across northern Eurasia and the Eastern US. However the cold is more certain across northern Eurasia following these type of PV disruptions," meteorologist Judah Cohen, who specializes in seasonal weather forecasting and tracking the polar vortex for AER, a Verisk Analytics company, wrote on his blog.  
+The negative mode of the NAO typically features an area of strong high pressure over Greenland, which blocks the progression of weather systems moving in from the southwest, and causes the jet stream to plunge southward over Europe, allowing cold air to flow in from the Arctic and Scandinavia. Sudden stratospheric warming events tend to cause the NAO to switch into negative mode shortly after they occur. 
+The rest of February should feature a colder than average Western U.S., coupled with a milder than average East Coast. However, the negative NAO phase could bring a return of winter weather to the East in early March, depending where exactly that Greenland block sets up. There's often a delay between when the polar vortex is disrupted, and when the cold air arrives in parts of the U.S., if at all. 
+Snow lovers will be watching upcoming forecasts anxiously, because the deeper into March we go, the less likely widespread snows along the East Coast become. 
+
+WATCH: The coldest village on Earth can make your face look like a popsicle
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");

@@ -1,0 +1,36 @@
+
+What is it with islands turning into tropical cyclone magnets lately? First there was the hellish Atlantic hurricane season, when storms wiped out Domenica, Barbuda, Puerto Rico, St. John and other islands. 
+Now the tiny Pacific Island nation of Tonga, which juts out into the South Pacific, southwest of American Samoa, was struck on Sunday night eastern time by the strongest storm of 2018 so far: Category 4 Cyclone Gita. 
+SEE ALSO: Australia's most popular natural tourist spots are under threat from climate change
+Tropical Cyclone Gita, packing sustained winds of 145 miles per hour, making it the equivalent of a Category 4 storm on the Saffir-Simpson Scale, swept across the southernmost Tongalese islands on Sunday night and Monday eastern time. 
+
+Well-known flag bearer Pita Taufatofua of Tonga leads the team during the Opening Ceremony of the PyeongChang 2018 Winter Olympic Games on Feb. 9, 2018.Image:  Ronald Martinez/Getty ImagesThe storm is reportedly the most severe to ever strike this tiny island nation, which is best known now for sending Pita Taufatofua, a shirtless, well-oiled, muscular man to the Olympics as a national flag bearer in two consecutive games. 
+
+TC Gita is ruthless. From indoors, It’s like a soundtrack to a horror movie out at sea. Tonga Met Service Office now deroofed 😔. Now radar-less, in God we trust. Let’s perservere #Tonga 🇹🇴 #eyesonGod
+— Sulia Makasini (@suliamakasini) February 12, 2018
+
+The storm underwent a period of rapid intensification on Sunday as it moved to the west, on a collision course with the island. By the time it struck, it was a formidable storm that passed close to the islands of Tongatapu and 'Eua. 
+
+Cyclone #Gita now at its closest point to the South Pacific islands of Tongatapu and 'Eua. #Tonga pic.twitter.com/RH1wjFJqhZ
+— Met Office Storms (@metofficestorms) February 12, 2018
+
+
+The eyewall of #CycloneGita hit most of Tonga as a Cat-4 of 125kts (JTWC). It seems that the eye calm (or calming) may have been felt in some areas. It's the strongest TC hit on land since #HurricaneMaria on Sep 20 in #PuertoRico, also at similar force. Expect severe damage news: pic.twitter.com/JyY5aaNvXH
+— Jose M Garcia (@JMGarciaRivera) February 12, 2018
+
+It's likely that the island nation has sustained major damage. Tongatapu alone has about 75,000 people, and it appeared to enter the storm's eye wall, where the fiercest winds and heaviest rains are located. 
+Tropical Cyclone Gita is forecast to move to the southwest during the next few days, potentially impacting Noumea, New Caledonia, and potentially bringing stormy weather to northern New Zealand by late in the week. 
+
+Tropical Cyclone #Gita hit #Tonga today with the strength of a Category 4 hurricane, the #Himawari8 geostationary satellite captured the path of the storm over the past 24 hours. Learn more about our international satellite partners in orbit here: https://t.co/SMSgTCxp0U pic.twitter.com/oefCA1fzZR
+— NOAA Satellites (@NOAASatellites) February 12, 2018
+
+No word yet on any reaction from the Tongalese Olympic team, which is currently competing in the winter olympics in South Korea. 
+
+WATCH: How the 'bomb cyclone' formed to slam the East Coast
+
+
+{"player":{"description":"It's quite rare.","image":"https://i.amz.mshcdn.com/MQAeBWd0ADvFR1J9Z4gKf8yQjjA=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fvideo_uploaders%2Fdistribution_thumb%2Fimage%2F84008%2Fddefd094-2d10-4d03-839a-ebf9dbc4290f.jpg","mediaid":"EmljxAP0L6","preload":false,"title":"How the 'bomb cyclone' formed to slam the East Coast","sources":[{"file":"https://vdist.aws.mashable.com/cms/2018/1/16abb4ff-f0a4-9c13/hls.m3u8"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/16abb4ff-f0a4-9c13/dash.mpd"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/16abb4ff-f0a4-9c13/mp4/1080.mp4"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/16abb4ff-f0a4-9c13/mp4/720.mp4"},{"file":"https://vdist.aws.mashable.com/cms/2018/1/16abb4ff-f0a4-9c13/mp4/480.mp4"}]},"options":{"disableAds":false,"disableSharing":false,"nextupAction":"autoplay","embedUrl":"https://mashable.com/videos/blueprint:EmljxAP0L6/embed/?player=offsite","standaloneUrl":null,"post":{"url":"https://mashable.com/2018/01/08/bomb-cyclone-how-rare/","date":"2018-01-08T15:31:48.748Z","bp_id":66300,"wp_id":null}},"advertising":{"params":{"keywords":"science,mashable-video,weather,cold,winter,freezing,winter storm,storm,flooding,bomb,natural disaster,weather report,real-time,real-time video,real time,real-time-video,real time video,winter weather,bombogenesis,freeze,bomb cyclone,weather bomb","sec0":null,"sec1":"","prc":""}},"analytics":{"labels":"science,mashable-video,weather,cold,winter,freezing,winter storm,storm,flooding,bomb,natural disaster,weather report,real-time,real-time video,real time,real-time-video,real time video,winter weather,bombogenesis,freeze,bomb cyclone,weather bomb","videoSeriesName":null}}
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");

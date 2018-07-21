@@ -1,0 +1,39 @@
+
+The massive vessel Eduard Toll, loaded with liquified natural gas from Siberia, successfully traversed through an icy Arctic sea route in January without any help from icebreaking ships — robust vessels that typically break through masses of ice to clear a path ahead. 
+This is a first for this time of year, when sea ice should be too thick for non-icebreakers to get through unaided. Instead, Arctic sea ice has been hovering near record low levels throughout the winter so far.
+The tanker company that operates the Eduard Toll, Teekay, posted a video of the voyage through the Northern Sea Route — one of the main passages ships use to bring Arctic commodities to global ports. This route runs along the northern coast of Siberia and Russia, and to the north of Scandinavia. It affords access to both the North Atlantic and North Pacific sides of the Arctic. The Eduard Toll first discharged bounties of gas in the far more pleasant climes of Montoir, France.
+SEE ALSO: Arctic weirding goes into overdrive, with shattered ice and temperature records
+"I was a bit surprised they were able to go through that Northern Sea Route this time of year," said Jeremy Mathis, the director of the National Oceanic and Atmospheric Administration's (NOAA) Arctic Research Program, in an interview. "That is indicative of how thin the ice is becoming in the Arctic."
+
+A look at the loss of thicker (usually older) #Arctic sea ice in Octobers from 1979-2016 (PIOMAS, ice < 1.5 meters masked black) pic.twitter.com/BtHCwVUdKk
+— Zack Labe (@ZLabe) November 14, 2016
+
+In a rapidly warming Arctic, where temperatures are increasing at more than twice the rate of the rest of the world, sea ice isn't just disappearing, it's becoming dramatically thinner. This allows some ships to charge through the diminished ice without support. 
+"The bigger story is the thickness of the ice is starting to go down. There is almost no multi-year ice at this point," said Mathis.
+"Virtually the only ice left in the Arctic is first-year sea ice, which means it just doesn’t have that thickness."
+
+It takes years for ice in the Arctic Ocean to build up over multiple winters, creating formidable layers that are some 10 feet thick. But a rapidly warming Arctic means this sea ice melts in the summer months or is flushed out of the Arctic to lower latitudes, so much of the winter ice is young and thin, only around three feet thick. 
+"The pace at which we’re seeing temperatures rise and ice melt [in the Arctic] is happing faster today than at any point in our recorded history," Mathis said.  
+As of September 2017, NOAA found that just around 20 percent of Arctic sea ice cover was comprised of older and thicker ice. In 1985, however, there was over twice as much older sea ice, at 45 percent. 
+The Eduard Toll, which pummels through the thinner ice, is not a normal ship. Vessels like the Eduard Toll are designed to navigate through ice about a meter or so thick — but certainly not old, heavily-layered Arctic ice. That still requires icebreakers. 
+
+The Northern Sea Route shown in yellow.Image:  Susie Harder - Arctic Council "Russia has incredible nuclear-powered icebreakers," said Laurence Smith, an Arctic researcher and professor of geography at UCLA. "[Ships like the Eduard Toll] don’t rival that — nor are they regular boats."
+While the Eduard Toll's winter feat may have highlighted a thawing Arctic, fossil fuel companies have been planning to exploit the increasingly open sea routes for years. In fact, Teekay plans to build five more massive LGN vessels like the Eduard Toll.
+"I think this has been on the books for quite some time," said Smith. "It's really just a continuation of what Russia has done since the 1960s."
+Still, the Northern Sea Route during the winter — or any Arctic route during the winter — is far from an easy seagoing affair. 
+"It is a very dangerous place and always will be," said Smith. 
+In the dark Arctic waters during winter, noted Smith, "It's shallow, the charts are terrible, communications are poor, the insurance costs are extremely high, and the distances involved are long."
+
+The Eduard Toll on a trial run in 2017.Image:  teekay As warming trends continue, Arctic travel will get even easier in the summer, when sunlight is abundant and sea ice extent is at its seasonal minimum. It's unclear when exactly ice-free Arctic summers will become a regular occurrence. NOAA's Mathis says estimates range from a couple decades to nearly the end of the century for a seasonally ice-free Arctic Ocean. 
+"We’re confident that we’ll have an ice-free sea in the summer months in the not-too-distant future," said Mathis. 
+"I don’t see any indication of that trend turning around," he said. 
+
+WATCH: NASA timelapse shows
+just how quickly our Arctic sea ice is disappearing
+
+
+{"player":{"description":"This is pretty scary.","image":"https://i.amz.mshcdn.com/HFKfIib0jMtej2YpfF59s-99rtI=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fvideo_uploaders%2Fdistribution_thumb%2Fimage%2F1495%2F3260b43f-bd28-4093-a7ea-9ed0817c66f3.jpg","mediaid":"Agb0eQP0Ld","preload":false,"title":"NASA timelapse shows\njust how quickly our Arctic sea ice is disappearing","sources":[{"file":"https://vdist.aws.mashable.com/jw/2017/5/04cfaff6-f46b-a618/hls.m3u8"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/04cfaff6-f46b-a618/dash.mpd"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/04cfaff6-f46b-a618/mp4/1080.mp4"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/04cfaff6-f46b-a618/mp4/720.mp4"},{"file":"https://vdist.aws.mashable.com/jw/2017/5/04cfaff6-f46b-a618/mp4/480.mp4"}]},"options":{"disableAds":false,"disableSharing":false,"nextupAction":"autoplay","embedUrl":"https://mashable.com/videos/blueprint:Agb0eQP0Ld/embed/?player=offsite","standaloneUrl":null,"post":{"url":"https://mashable.com/2016/10/31/nasa-arctic-sea-ice-dissapear/","date":"2016-11-01T00:21:35.000Z","bp_id":26389,"wp_id":null}},"advertising":{"params":{"keywords":"world,video,climate,nasa,science,mashable-video,weather,global warming,ice,real-time,ice melt","sec0":null,"sec1":"","prc":""}},"analytics":{"labels":"world,video,climate,nasa,science,mashable-video,weather,global warming,ice,real-time,ice melt","videoSeriesName":null}}
+
+
+      window._msla=window.loadScriptAsync||function(src,id){if(document.getElementById(id))return;var js=document.createElement('script');js.id=id;js.src=src;document.getElementsByTagName('script')[0].parentNode.insertBefore(js,fjs);};
+_msla("https://platform.twitter.com/widgets.js","twitter_jssdk");
