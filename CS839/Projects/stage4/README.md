@@ -1,3 +1,4 @@
+# Data analysis
 ## Input Files for merger.py
 The following input files have to be in the Data folder of the current directory: 
 - A.csv: The IMDb movies table, contains 3500 tuples (See table's schema below)
